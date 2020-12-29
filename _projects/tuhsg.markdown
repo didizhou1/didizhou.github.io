@@ -2,7 +2,7 @@
 layout: page
 title: The Ultimate Hackthon Starting Guide
 description: A resource for students to begin their projects at a hackathon. Includes technical resources as well as answering logistical questions
-img: http://gamebot2.com/images/FreetailSite.PNG
+img: /assets/img/FreetailSite.PNG
 github: https://github.com/kdesai2018/ultimate-hackathon-starting-guide
 redirect: https://github.com/kdesai2018/ultimate-hackathon-starting-guide
 importance: 4

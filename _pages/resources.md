@@ -5,6 +5,7 @@ title: Resources
 description: Resources in a variety of areas I've dabbled in
 nav: true
 ---
+I've always believed that knowledge should be learned to be shared and this is my attempt at doing so. Below you will find a combination of resources that I've compiled on a variety of topics. If you spot any errors, don't hesitate to point them out.
 
 <div class="resources grid">
 

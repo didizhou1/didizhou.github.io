@@ -1,8 +1,8 @@
 ---
 layout: page
 title: InfoLynx
-description: Note-taking app submitted to HackMIT 2020 that pulls up keywords from your video lecture as you go.
-img: http://gamebot2.com/images/InfoLynx.jpg
+description: Note-taking app submitted to HackMIT 2020 that pulls up keywords from your video lecture as you go
+img: /assets/img/InfoLynx.jpg
 redirect: http://infolynx.gamebot2.com/
 github: https://github.com/kdesai2018/infolynx
 importance: 2

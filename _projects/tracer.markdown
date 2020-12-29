@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Tracer
-description: Game that teach young students how to read code interactively submitted to HackMIT 2019.
-img: http://gamebot2.com/images/Tracer.png
+description: Game that teach young students how to read code interactively submitted to HackMIT 2019
+img: /assets/img/Tracer.png
 redirect: https://s3.us-east-2.amazonaws.com/tracer.gamebot2.com/index.html
 importance: 6
 github: https://github.com/didizhou1/Tracer
